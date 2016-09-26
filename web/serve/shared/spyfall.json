@@ -1,0 +1,28 @@
+{
+  "locations": [
+    {
+      "name": "airplane",
+      "roles": [
+        "first class passenger",
+        "air marshall",
+        "mechanic",
+        "air hostess",
+        "copilot",
+        "captain",
+        "economy class passenger"
+      ]
+    },
+    {
+      "name": "bank",
+      "roles": [
+        "armored car driver",
+        "manager",
+        "consultant",
+        "robber",
+        "security guard",
+        "teller",
+        "customer"
+      ]
+    }
+  ]
+}
